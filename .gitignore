@@ -13,3 +13,8 @@
 
 gradle.properties
 release-key.asc
+
+target/
+.project
+.classpath
+.settings/
